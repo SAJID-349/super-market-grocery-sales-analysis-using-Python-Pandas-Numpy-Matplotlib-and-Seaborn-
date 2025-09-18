@@ -10,6 +10,6 @@ The growth of supermarkets in most populated cities are increasing and market co
 
 Libraries used :
 
-numpy #linear algebra
-pandas # data processing, CSV file I/O (e.g. pd.read_csv)
-seaborn & matplotlib #data plotting
+**numpy** #linear algebra  ||    
+**pandas** # data processing, CSV file I/O (e.g. pd.read_csv)   ||   
+**seaborn** & matplotlib #data plotting  ||
